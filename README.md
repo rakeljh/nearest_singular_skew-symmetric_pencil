@@ -9,6 +9,10 @@ Example usage found in example.m. The file gen_AB.m is used to generate a random
 
 Note that svdgup (u_bound option in dist_to_sing_ss_pencil) requires the MCS Toolbox https://www.umu.se/forskning/projekt/stratigraph-and-mcs-toolbox/.
 
-For further reading, see http://hdl.handle.net/20.500.12380/310357.
+This code accompanies the thesis:
+> R. Hellberg (2025).
+> Distance to Singularity for Skew-Symmetric Matrix Pencils.
+> Master's Thesis, Chalmers University of Technology.
+> URI: http://hdl.handle.net/20.500.12380/310357
 
 For matrix polynomials, see https://github.com/rakeljh/dist_sing_skew_pol.
